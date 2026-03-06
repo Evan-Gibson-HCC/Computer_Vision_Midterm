@@ -17,7 +17,7 @@ Dataset Plan: Kaggle, ~1000 size, labels(no_mask, mask_wrong, mask_right) https:
 Metrics: Accuracy and Precision
 
 
-Week by Week
+Week by Week  
 10:	Get dataset, set up environment  
 11: Train or fine-tune model	
 12: Test and improve	
