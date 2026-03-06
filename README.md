@@ -1,6 +1,6 @@
 # Computer_Vision_Midterm
 
-Project name: Face Mask Detector 
+Project name: Face Mask Spotter
 
 Team members: Evan Gibson
 
